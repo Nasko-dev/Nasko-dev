@@ -6,7 +6,7 @@ Hi ! I'm William Le Gall (💻💜🚀)![](https://user-images.githubusercontent
 Un Stagiaire web, chercheur en cybersécurité, passionné de web3.
 
 - 🌍 Actuellement en France
-- 🌱 En formation actuellement chez [Wild Code School]([http://www.Nasko-dev.fr/](https://www.wildcodeschool.com/fr-fr/))
+- 🌱 En formation actuellement chez [Wild Code School](https://www.wildcodeschool.com/fr-fr/)
 - 🧠 Learning React native and ux / ui design
 - ⚡ Je suis secrètement flash... Mais ne le dites à personne, svp
 
@@ -45,6 +45,6 @@ Un Stagiaire web, chercheur en cybersécurité, passionné de web3.
 
 ---
 
-<img src="Images/snake.svg" style="background:#161b22;">
+<img src="https://raw.githubusercontent.com/Devtrotter/Devtrotter/57d797287a1541c51be8dbcd2e1f621af6b55f88/Images/snake.svg" style="background:#161b22;">
 
 💻💜🚀 by [William Le Gall](https://www.linkedin.com/in/Nasko-dev/)
