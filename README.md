@@ -1,7 +1,7 @@
 ![Coding Gif](https://github.com/m-mdy-m/m-mdy-m/blob/main/Life.js.gif)
 Hi ! I'm William Le Gall (💻💜🚀)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?font=Playwrite+England+SemiJoine&color=D32BFFB3&center=faux&vCenter=faux&repeat=vrai&random=faux&lines=%5BStagiaire%5D%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;%5BWild+Code+School%5D%F0%9F%8F%AB;%5B%F0%9F%A4%96AI%7C%E2%9B%93%EF%B8%8FWeb3%5D%F0%9F%92%9C)
+[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?font=Playwrite+England+SemiJoine&color=D32BFFB3&center=faux&vCenter=faux&repeat=vrai&random=faux&lines=%5BStagiaire%5D%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;%5BWild+Code+School%5D%F0%9F%8F%AB;%5B%F0%9F%A4%96AI%7C%E2%9B%93%EF%B8%8FWeb3%5D%F0%9F%92%9C)](https://git.io/typing-svg)
 
 A French self-taught web developer, cybersecurity researcher, tech community builder, web3 enthusiast, and technopreneur from the France.
 
