@@ -47,4 +47,4 @@ Un Stagiaire web, chercheur en cybersécurité, passionné de web3.
 
 <img src="https://raw.githubusercontent.com/Devtrotter/Devtrotter/57d797287a1541c51be8dbcd2e1f621af6b55f88/Images/snake.svg" style="background:#161b22;">
 
-💻💜🚀 part [William Le Gall](https://www.linkedin.com/in/Nasko-dev/)
+💻💜🚀 by [William Le Gall](https://www.linkedin.com/in/Nasko-dev/)
