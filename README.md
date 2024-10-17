@@ -1,49 +1,52 @@
-<h2 align="left">Salut! Je suis William Le Gall https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif (💻💜🚀)</h2>
+![Coding Gif](https://github.com/m-mdy-m/m-mdy-m/blob/main/Life.js.gif)
+Hi ! I'm William Le Gall (💻💜🚀)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+========================================================================================================================================
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey&weight=500&pause=1000&color=7A39F7&random=false&width=435&lines=%5B5%2B+years%5D%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%BB;%5BCEO%2FFREELANCE%5D%F0%9F%92%8E;%5B%F0%9F%A4%96AI%7C%E2%9B%93%EF%B8%8FWEB3%5D%F0%9F%92%9C;%5BDEVTROTTER%5D%F0%9F%A6%B8%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 
-###
+A French self-taught web developer, cybersecurity researcher, tech community builder, web3 enthusiast, and technopreneur from the France.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 🌍 Curently in France
+- 🚀 CEO at [Devtrotter](http://www.devtrotter.fr/)
+- 🌱 Currently Work at [Devtrotter](http://www.devtrotter.fr/)
+- 🧠 Learning React native and ux / ui design
+- 🎯 Became 1% of top developer
+- ⚡  I'm secretly flash... but don't tell anyone pls
 
-###
+<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" height="24"/> Technologies<h3/>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,next,vite,firebase,mongodb,git,figma,vscode,apple,github,gitlab,jest,kali,materialui,netlify,npm,postgres,redux,regex,styledcomponents,tailwind,threejs&theme=dark)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+<details>
+<summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-###
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devtrotter&theme=radical&border=7F3FBF&background=0D1117" alt="Devtrotter" />
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<p align="center">
+    <a href="https://github.com/Devtrotter">
+        <img alt="Devtrotter Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Devtrotter&show_icons=true&count_private=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+    </a>
+    <a href="https://github.com/Devtrotter">
+        <img alt="Devtrotter Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Devtrotter&langs_count=20&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+    </a>
+</p>
 
-###
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devtrotter&custom_title=Devtrotter%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Devtrotter" />
+</p>
+</details>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-<br clear="both">
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Devtrotter)
 
-<img src="https://raw.githubusercontent.com/Devtrotter/Devtrotter/57d797287a1541c51be8dbcd2e1f621af6b55f88/Images/snake.svg" alt="Snake animation" />
+</details>
 
-###
+---
+
+<img src="Images/snake.svg" style="background:#161b22;">
+
+💻💜🚀 by [William Le Gall](https://www.linkedin.com/in/devtrotter/)
