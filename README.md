@@ -1,5 +1,5 @@
 ![Coding Gif](https://github.com/m-mdy-m/m-mdy-m/blob/main/Life.js.gif)
-Hi ! I'm William Le Gall (💻💜🚀)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Salut! Je suis William Le Gall (💻💜🚀)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+England+SemiJoine&pause=1000&color=D32BFFB3&center=faux&vCenter=faux&repeat=vrai&random=faux&width=435&lines=%5BStagiaire%5D%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;%5BWild+Code+School%5D%F0%9F%8F%AB;%5B%F0%9F%A4%96AI%7C%E2%9B%93%EF%B8%8FWeb3%5D%F0%9F%92%9C)](https://git.io/typing-svg)
 
@@ -7,7 +7,7 @@ Un Stagiaire web, chercheur en cybersécurité, passionné de web3.
 
 - 🌍 Actuellement en France
 - 🌱 En formation actuellement chez [Wild Code School](https://www.wildcodeschool.com/fr-fr/)
-- 🧠 Learning React native and ux / ui design
+- 🧠 Apprentissage du React natif et de l’ux / ui design
 - ⚡ Je suis secrètement flash... Mais ne le dites à personne, svp
 
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" height="24"/> Technologies<h3/>
@@ -47,4 +47,4 @@ Un Stagiaire web, chercheur en cybersécurité, passionné de web3.
 
 <img src="https://raw.githubusercontent.com/Devtrotter/Devtrotter/57d797287a1541c51be8dbcd2e1f621af6b55f88/Images/snake.svg" style="background:#161b22;">
 
-💻💜🚀 by [William Le Gall](https://www.linkedin.com/in/Nasko-dev/)
+💻💜🚀 part [William Le Gall](https://www.linkedin.com/in/Nasko-dev/)
