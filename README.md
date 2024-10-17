@@ -1,5 +1,5 @@
 ![Coding Gif](https://github.com/m-mdy-m/m-mdy-m/blob/main/Life.js.gif)
-Salut! Je suis William Le Gall (💻💜🚀)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Salut! Je suis Nasko (💻💜🚀)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+England+SemiJoine&pause=1000&color=D32BFFB3&center=faux&vCenter=faux&repeat=vrai&random=faux&width=435&lines=%5BStagiaire%5D%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;%5BWild+Code+School%5D%F0%9F%8F%AB;%5B%F0%9F%A4%96AI%7C%E2%9B%93%EF%B8%8FWeb3%5D%F0%9F%92%9C)](https://git.io/typing-svg)
 
@@ -47,4 +47,4 @@ Un Stagiaire web, chercheur en cybersécurité, passionné de web3.
 
 <img src="https://raw.githubusercontent.com/Devtrotter/Devtrotter/57d797287a1541c51be8dbcd2e1f621af6b55f88/Images/snake.svg" style="background:#161b22;">
 
-💻💜🚀 by [William Le Gall](https://www.linkedin.com/in/Nasko-dev/)
+💻💜🚀 by [Nasko](https://www.linkedin.com/in/Nasko-dev/)
