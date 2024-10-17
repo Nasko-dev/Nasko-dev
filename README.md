@@ -12,7 +12,7 @@ Un Stagiaire web, chercheur en cybersécurité, passionné de web3.
 
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" height="24"/> Technologies<h3/>
 
-![skills](https://skillicons.dev/icons?i=html,css,js,lua,react,figma,vscode,apple,github,threejs,discord,fivem&theme=dark)
+![skills](https://skillicons.dev/icons?i=html,css,js,lua,react,figma,vscode,apple,github,threejs,discord,chatgpt&theme=dark)
 
 ---
 
