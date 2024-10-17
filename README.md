@@ -3,14 +3,12 @@ Hi ! I'm William Le Gall (💻💜🚀)![](https://user-images.githubusercontent
 ========================================================================================================================================
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+England+SemiJoine&pause=1000&color=D32BFFB3&center=faux&vCenter=faux&repeat=vrai&random=faux&width=435&lines=%5BStagiaire%5D%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;%5BWild+Code+School%5D%F0%9F%8F%AB;%5B%F0%9F%A4%96AI%7C%E2%9B%93%EF%B8%8FWeb3%5D%F0%9F%92%9C)](https://git.io/typing-svg)
 
-A French self-taught web developer, cybersecurity researcher, tech community builder, web3 enthusiast, and technopreneur from the France.
+Un Stagiaire web, chercheur en cybersécurité, passionné de web3.
 
-- 🌍 Curently in France
-- 🚀 CEO at [Devtrotter](http://www.devtrotter.fr/)
-- 🌱 Currently Work at [Devtrotter](http://www.devtrotter.fr/)
+- 🌍 Actuellement en France
+- 🌱 En formation actuellement chez [Wild Code School]([http://www.devtrotter.fr/](https://www.wildcodeschool.com/fr-fr/))
 - 🧠 Learning React native and ux / ui design
-- 🎯 Became 1% of top developer
-- ⚡  I'm secretly flash... but don't tell anyone pls
+- ⚡ Je suis secrètement flash... Mais ne le dites à personne, svp
 
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" height="24"/> Technologies<h3/>
 
