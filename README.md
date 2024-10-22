@@ -7,7 +7,7 @@ Un Stagiaire web, chercheur en cybersécurité, passionné de web3.
 
 - 🌍 Actuellement en France
 - 🌱 En formation actuellement chez [Wild Code School](https://www.wildcodeschool.com/fr-fr/)
-- 🧠 Apprentissage du React natif et de l’ux / ui design
+- 🧠 Apprentissage du Front /back end
 - ⚡ Je suis secrètement flash... Mais ne le dites à personne, svp
 
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" height="24"/> Technologies<h3/>
