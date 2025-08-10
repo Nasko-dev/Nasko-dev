@@ -1,51 +1,74 @@
 ![Coding Gif](https://github.com/m-mdy-m/m-mdy-m/blob/main/Life.js.gif)
-Salut! Je suis Nasko (💻💜🚀)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-========================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+England+SemiJoine&pause=1000&color=D32BFFB3&center=faux&vCenter=faux&repeat=vrai&random=faux&width=435&lines=%5BStagiaire%5D%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;%5BWild+Code+School%5D%F0%9F%8F%AB;%5B%F0%9F%A4%96AI%7C%E2%9B%93%EF%B8%8FWeb3%5D%F0%9F%92%9C)](https://git.io/typing-svg)
 
-Un Stagiaire web, chercheur en cybersécurité, passionné de web3.
+# Salut ! Je suis William Le Gall 💻🚀  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3A8FFF&width=550&lines=Développeur+Web+Full-Stack;Expert+SaaS+%26+Automatisation;Créateur+de+FastQuote+%26+EchoTag;3+ans+d'expérience+en+développement)
 
-- 🌍 Actuellement en France
-- 🌱 En formation actuellement chez [Wild Code School](https://www.wildcodeschool.com/fr-fr/)
-- 🧠 Apprentissage du Front / Back end
-- ⚡ Je suis secrètement flash... Mais ne le dites à personne, svp
+💡 **Développeur web & freelance** spécialisé dans la création de **SaaS performants** et **solutions automatisées**.  
+J’accompagne freelances, startups et PME pour transformer leurs idées en **produits digitaux premium**.
 
-<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" height="24"/> Technologies<h3/>
+---
 
-![skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,lua,react,nextjs,figma,vscode,apple,github,threejs,discord,nodejs,express,php,mysql,mongodb,supabase,git,vite&theme=dark)
+## 🌍 À propos
+- 📍 Basé à **Quimper, France**
+- 🛠 **Stack principale** : Next.js • React • Node.js • Prisma • PostgreSQL • Tailwind CSS  
+- ⚡ Passionné par **l’UI/UX premium**, l’automatisation et le **no-code**  
+- 🚀 Objectif : construire des solutions **scalables, rapides et élégantes**  
 
+---
+
+## 🛠️ Technologies & Outils
+
+![skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,nextjs,nodejs,express,prisma,postgresql,mysql,redis,php,mongodb,firebase,supabase,figma,github,docker,vscode&theme=dark)
+
+---
+
+## 🚀 Projets phares
+
+### 🔹 [FastQuote](https://fastquote.io)
+SaaS de gestion de devis & factures pour freelances et TPE  
+- Multi-organisation  
+- Paiements Stripe & SEPA intégrés  
+- Relances automatiques et exports comptables
+
+### 🔹 EchoTag
+Outil SaaS pour créer et suivre des QR codes dynamiques  
+- Statistiques en temps réel  
+- Personnalisation avancée  
+- API publique pour intégrations
 
 ---
 
 <details>
-<summary>&#9889 <b>GitHub Stats</b></summary><br/>
+<summary>📊 <b>Statistiques GitHub</b></summary><br/>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nasko-dev&theme=radical&border=7F3FBF&background=0D1117" alt="Nasko-dev" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=williamlegall&theme=tokyonight&border=7F3FBF&background=0D1117" alt="GitHub streak" />
 </p>
 
 <p align="center">
-    <a href="https://github.com/Nasko-dev">
-        <img alt="Nasko-dev Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Nasko-dev&show_icons=true&count_private=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+    <a href="https://github.com/williamlegall">
+        <img alt="Stats GitHub" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=williamlegall&show_icons=true&count_private=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=3A8FFF&icon_color=F8D866" height="192px" />
     </a>
-    <a href="https://github.com/Nasko-dev">
-        <img alt="Nasko-dev Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Nasko-dev&langs_count=20&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+    <a href="https://github.com/williamlegall">
+        <img alt="Langages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=williamlegall&langs_count=20&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=3A8FFF&icon_color=F8D866" height="192px" />
     </a>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasko-dev&custom_title=Nasko-dev%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Nasko-dev" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=williamlegall&custom_title=William%20Le%20Gall%20-%20GitHub%20Activity%20Graph&bg_color=0D1117&color=3A8FFF&line=3A8FFF&point=3A8FFF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub activity graph" />
 </p>
 </details>
+
+---
+
 <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+<summary>🏆 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Nasko-dev)
-
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=williamlegall&theme=tokyonight&no-frame=true&margin-w=15)
 </details>
 
 ---
 
 <img src="https://raw.githubusercontent.com/Devtrotter/Devtrotter/57d797287a1541c51be8dbcd2e1f621af6b55f88/Images/snake.svg" style="background:#161b22;">
 
-💻💜🚀 by [Nasko](https://www.linkedin.com/in/Nasko-dev/)
+💻🚀 par [William Le Gall](https://www.linkedin.com/in/william-legall/)
